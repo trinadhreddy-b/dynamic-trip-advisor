@@ -35,6 +35,7 @@ function addCityToDOM(id, city, description, image) {
     <div class="tile">
             
     <img src= ${image}>
+    
 
     <div class="tile-text text-white justify-content-center align-items-center text-center"> 
     <h5>${city}</h5>
