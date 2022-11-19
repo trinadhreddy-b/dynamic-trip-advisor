@@ -9,7 +9,6 @@ async function init() {
   });
 }
 
-
 //Implementation of fetch call
 async function fetchCities() {
   // TODO: MODULE_CITIES
