@@ -1,4 +1,4 @@
 
-const config = { backendEndpoint: "http://13.127.202.143:8082" };
+const config = { backendEndpoint: "https://mytripdynamic.herokuapp.com" };
 
 export default config;
